@@ -2,7 +2,7 @@
   "name": "chino-kafuu",
   "description": "Um simples bot pro discord",
   "version": "2020.12.22.02-stable",
-  "author": "DanielaGC_",
+  "author": "SpyLegendsYT",
   "main": "shard.js",
   "engines": {
     "node": "14.x"
@@ -33,6 +33,7 @@
     "nekos.life": "^2.0.5",
     "node-fetch": "^2.6.0",
     "node-opus": "^0.3.3",
+    "node.js": "0.0.1-security",
     "opusscript": "0.0.7",
     "os": "^0.1.1",
     "parse-duration": "^0.4.4",
